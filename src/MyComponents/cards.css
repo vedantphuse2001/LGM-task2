@@ -1,0 +1,48 @@
+.cards{
+    display: flex;
+    flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+background: none;
+  
+ 
+}
+.box{
+    
+    margin: 12px 30px;
+    width: 20%;
+    
+    margin: 12px 30px;
+    width: 20%;
+    
+    box-shadow: 7px 9px 4px black;
+    
+    
+}
+#text li {
+    margin: 4px 8%;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#img{
+    /* border: 2px solid red; */
+    box-shadow: 5px 5px 5px black;
+    width: 150px;
+    margin: 2px auto;
+    margin-bottom: -10px;
+    border-radius: 64px;
+}
+#btn{
+    height: 36px;
+    width: 66px;
+    margin: 2px 78px;
+    background: none;
+    color: black;
+    border: 2px solid white;
+    
+    background-color: yellow;
+    box-shadow: -4px 4px 4px rgb(214, 21, 21);
+
+
+}
